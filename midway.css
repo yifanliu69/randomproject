@@ -14,8 +14,8 @@ p,h1,h2,h3,table,ul {
 /*special margin for classes*/
 .t3 {
     display: block;
-    margin-left: 30;
-    margin-right: 70;
+    margin-left: 30%;
+    margin-right: 70%;
     width: 55%;
     font-size: 20px;
 }
