@@ -46,6 +46,6 @@ h1,h2 {
 body {
     background-image: url("bkimg.jpeg")
 }
-#sources {
+#sources, a{
     background-color: white;
 }
