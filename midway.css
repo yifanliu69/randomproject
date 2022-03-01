@@ -41,8 +41,11 @@ p {
     border-style: groove;
 }
 h1,h2 {
-    background-color:white;
+    background-color: white;
 }
 body {
     background-image: url("bkimg.jpeg")
+}
+#sources {
+    background-color: white;
 }
