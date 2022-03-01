@@ -39,3 +39,6 @@ p {
 h1,h2 {
     background-color:white;
 }
+body {
+    background-image: url("bkimg.jpeg")
+}
