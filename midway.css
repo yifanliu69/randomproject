@@ -30,9 +30,9 @@ h1,h2,h3 {
 /*special margin for classes*/
 .t3 {
     display: block;
-    margin-left: 10%;
-    margin-right: 90%;
-    width: 55%;
+    margin-left: 5%;
+    margin-right: 50%;
+    width: 50%;
     font-size: 20px;
     background-color: lightblue;
 }
