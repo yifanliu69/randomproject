@@ -5,6 +5,10 @@ img {
     margin-right: auto;
     width: 50%;
     border: 5px solid #555
+.validator {
+    width: 60px;
+    height: 40px;
+}
 }
 p,h1,h2,h3,table,#source {
     display: block;
