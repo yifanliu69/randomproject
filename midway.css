@@ -6,6 +6,9 @@ img {
     width: 50%;
     border: 5px solid #555
 }
+body {
+    background-image: url("bkimg.jpeg");
+}
 p,h1,h2,h3,table,#source{
     display: block;
     margin-left: auto;
